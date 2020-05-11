@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+#PersonCard {
+  text-align: left;
+  padding-left: 3em;
+  padding-top: 1em;
+}
